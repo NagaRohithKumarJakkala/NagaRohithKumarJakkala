@@ -2,13 +2,13 @@
 
 🎓 University Student  
 💻 Skilled in C++, Rust, Python  
-🧩 Interested in problem solving & building tools (not much into web dev)
+🧩 Interested in problem solving & building tools (not much into web dev though)
 
 ---
 
 ## 🚀 Favorite Project
 - **RISC-V Simulator**  
-  My most exciting project so far — a simulator for the RISC-V.
+  My most exciting project so far — a simulator for the RISC-V. which is made by adding a user friendly gui to a course project.
 
 ---
 
