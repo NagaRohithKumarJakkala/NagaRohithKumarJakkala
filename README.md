@@ -1,20 +1,20 @@
 # Hi, I'm Naga Rohith Kumar Jakkala 👋
 
 🎓 University Student  
-💻 Skilled in C++, Rust, Python  
+💻 can code comfortably in C/C++, Rust, Python, go  
 🧩 Interested in problem solving & building tools (not much into web dev though)
 
 ---
 
 ## 🚀 Favorite Project
 - **RISC-V Simulator**  
-  My most exciting project so far — a simulator for the RISC-V. which is made by adding a user friendly gui to a course project.
+  My most exciting project so far — a simulator for the RISC-V. which was made by adding a user friendly gui to a course project by taking inspiration from ripes (both are way different though).
 
 ---
 
 ## 🏆 Hobbies
 - Competitive Programming
-- Reading Manga
+- Reading Manga/Manhwa
 
 ---
 
