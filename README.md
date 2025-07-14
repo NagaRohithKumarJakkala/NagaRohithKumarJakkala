@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @NagaRohithKumarJakkala
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: gmail: nagarohithkumarjakkala@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+# Hi, I'm Naga Rohith Kumar Jakkala 👋
 
-<!---
-NagaRohithKumarJakkala/NagaRohithKumarJakkala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 University Student  
+💻 Skilled in C++, Rust, Python  
+🧩 Interested in problem solving & building tools (not much into web dev)
+
+---
+
+## 🚀 Favorite Project
+- **RISC-V Simulator**  
+  My most exciting project so far — a simulator for the RISC-V.
+
+---
+
+## 🏆 Hobbies
+- Competitive Programming
+- Reading Manga
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/naga-rohith-kumar-jakkala-164a67311)
+
+---
+
+Thanks for stopping by!
