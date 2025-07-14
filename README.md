@@ -2,7 +2,7 @@
 
 🎓 University Student  
 💻 can code comfortably in C/C++, Rust, Python, go  
-🧩 Interested in problem solving & building tools (not much into web dev though)
+🧩 Interested in problem solving ,Software and tools (not much into web dev though)
 
 ---
 
@@ -22,5 +22,8 @@
 - [LinkedIn](https://www.linkedin.com/in/naga-rohith-kumar-jakkala-164a67311)
 
 ---
+## And last But not least 
+
+**I am Arch user BTW (lol)**
 
 Thanks for stopping by!
