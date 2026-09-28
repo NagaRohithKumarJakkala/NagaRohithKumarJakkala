@@ -20,12 +20,6 @@
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/naga-rohith-kumar-jakkala-164a67311)
-
----
-## 😎And last But not least 
-
-
-**I am Arch user BTW (lol🤣)**
 ---
 
 Thanks for stopping by!
